@@ -1,0 +1,42 @@
+{
+  "files": {
+    "main.css": "/Budget-_rip/static/css/main.7c4d89f5.css",
+    "main.js": "/Budget-_rip/static/js/main.e145fe67.js",
+    "static/js/787.eef63c4b.chunk.js": "/Budget-_rip/static/js/787.eef63c4b.chunk.js",
+    "static/media/seven.jpg": "/Budget-_rip/static/media/seven.ed74bee917ee31195d12.jpg",
+    "static/media/two.jpg": "/Budget-_rip/static/media/two.b327df5422f6c0095d66.jpg",
+    "static/media/five.jpg": "/Budget-_rip/static/media/five.2cc76c1256a63bbad1fd.jpg",
+    "static/media/three.jpg": "/Budget-_rip/static/media/three.ff91ed65242c19e7ecd3.jpg",
+    "static/media/goa.jpg": "/Budget-_rip/static/media/goa.8c8810376c35bd7fb1d3.jpg",
+    "static/media/eight.jpg": "/Budget-_rip/static/media/eight.8d76be82a59dc2c70a44.jpg",
+    "static/media/wallpaperflare.com_wallpaper.jpg": "/Budget-_rip/static/media/wallpaperflare.com_wallpaper.31b956649230c71f7571.jpg",
+    "static/media/fabio-comparelli-uq2E2V4LhCY-unsplash.jpg": "/Budget-_rip/static/media/fabio-comparelli-uq2E2V4LhCY-unsplash.9fdb62735634575ce14b.jpg",
+    "static/media/mumbai.jpg": "/Budget-_rip/static/media/mumbai.d23daa5d5a5a0ccb1e1b.jpg",
+    "static/media/couple.jpg": "/Budget-_rip/static/media/couple.4b30b3c211648b75b388.jpg",
+    "static/media/megha.jpg": "/Budget-_rip/static/media/megha.87a6f77afb70c2528a7b.jpg",
+    "static/media/punjab.jpg": "/Budget-_rip/static/media/punjab.dfcc0ba353952a388223.jpg",
+    "static/media/kerala.jpg": "/Budget-_rip/static/media/kerala.5c48718128d9ff2e9b96.jpg",
+    "static/media/map_one.png": "/Budget-_rip/static/media/map_one.c0bb7f5d40883284a341.png",
+    "static/media/jaipur.jpg": "/Budget-_rip/static/media/jaipur.a28da6523de9d22d8010.jpg",
+    "static/media/rajasthan.jpg": "/Budget-_rip/static/media/rajasthan.d7cfdc721a4e403a35e2.jpg",
+    "static/media/up.jpg": "/Budget-_rip/static/media/up.8219d562328c57dc0f93.jpg",
+    "static/media/hill.jpg": "/Budget-_rip/static/media/hill.8a2395e14b673c46aab0.jpg",
+    "static/media/delhi.jpg": "/Budget-_rip/static/media/delhi.4cd628e5c388872aa747.jpg",
+    "static/media/nine.jpg": "/Budget-_rip/static/media/nine.73683196975a9814865a.jpg",
+    "static/media/manali.jpg": "/Budget-_rip/static/media/manali.1b998336a2e0dbbe34fc.jpg",
+    "static/media/sea.jpg": "/Budget-_rip/static/media/sea.366f821c6a1dbeba3ca1.jpg",
+    "static/media/rishikesh.jpg": "/Budget-_rip/static/media/rishikesh.4624e337fa6f57a10a92.jpg",
+    "static/media/rafting.jpg": "/Budget-_rip/static/media/rafting.a37b17e6c3ab1fae8c7e.jpg",
+    "static/media/rajasthan_adventure.jpg": "/Budget-_rip/static/media/rajasthan_adventure.e8e1db91fb06f62ca337.jpg",
+    "static/media/kerala_culture.jpg": "/Budget-_rip/static/media/kerala_culture.b85c1a3cb3df24cbdf5b.jpg",
+    "static/media/goa_adventure.jpg": "/Budget-_rip/static/media/goa_adventure.2caa6665341f30f614e3.jpg",
+    "index.html": "/Budget-_rip/index.html",
+    "main.7c4d89f5.css.map": "/Budget-_rip/static/css/main.7c4d89f5.css.map",
+    "main.e145fe67.js.map": "/Budget-_rip/static/js/main.e145fe67.js.map",
+    "787.eef63c4b.chunk.js.map": "/Budget-_rip/static/js/787.eef63c4b.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.7c4d89f5.css",
+    "static/js/main.e145fe67.js"
+  ]
+}
