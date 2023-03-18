@@ -1,0 +1,24 @@
+:root{
+    --beige : #4A0404;
+    --purple:#C5ADC5;
+    --black:#26282A;
+    --white:#f6f6f6;
+    --orange:#FF3131;
+}
+.book_activity{
+    width: 100%;
+    height: auto;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+.activity_info{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    padding: 20px;
+}
+.activities_to_do{
+    padding: 20px;
+}

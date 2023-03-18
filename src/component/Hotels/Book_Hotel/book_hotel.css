@@ -1,0 +1,59 @@
+:root{
+    --beige : #4A0404;
+    --purple:#C5ADC5;
+    --black:#26282A;
+    --white:#f6f6f6;
+    --orange:#FF3131;
+}
+body{
+    box-sizing: border-box;
+}
+.book_hotel{
+    display: flex;
+    flex-direction: column;
+    width: 100%;
+    height: auto;
+    color: var(--black);
+}
+.info_booking{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-around;
+    padding: 10px;
+}
+/* .info_booking h6{
+    border: 0.1rem solid var(--black);
+    border-radius: 20px;
+    padding: 10px;
+} */
+.display_hotels{
+    display: flex;
+    flex-direction: row;
+    height: auto;
+    
+    padding: 10px;
+}
+.filters{
+    display: flex;
+    flex-direction: column;
+    width: 25%;
+    height: auto;
+    
+    flex-grow: 1;
+}
+.horizontal{
+    border: 1px solid var(--black);
+}
+.hotels_to_book{
+    padding: 10px;
+    display: flex;
+    flex-direction: column;
+    width:75%;
+    /* \|/ */
+    height: auto;
+    flex-grow: 3;
+}
+.hotels_to_book p {
+    text-align: end;
+    font-size: x-small;
+}

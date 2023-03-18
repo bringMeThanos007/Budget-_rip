@@ -1,0 +1,67 @@
+:root{
+    --beige : #4A0404;
+    --purple:#C5ADC5;
+    --black:#26282A;
+    --white:#f6f6f6;
+    --orange:#FF3131;
+  }
+.room_detail{
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}  
+.room_img{
+  padding: 10px;
+  padding-left: 100px;
+  padding-right: 100px;
+}
+@media(max-width:770px) {
+  .room_img{
+    padding-left: 10px;
+    padding-right: 10px;
+  }
+  }
+.room_book{
+  margin: 5px;
+  padding: 20px;
+  border-radius: 10px;
+  box-shadow: 1px 1px 3px var(--black);
+  color: var(--black);
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+
+} 
+/* review tab */
+.display_room{
+  display: flex;
+  flex-direction: row;
+  height: auto;
+  color: var(--black);
+  padding: 10px;
+}
+.reviews{
+  display: flex;
+  flex-direction: column;
+  width: 40%;
+  height: auto;
+  flex-grow: 1;
+  padding: 10px;
+  color: var(--black);
+}
+.horizontal{
+  border: 1px solid var(--black);
+}
+.room_to_book{
+  /* box-shadow: 1px 1px 4px var(--black);
+  border-radius: 20px; */
+  padding: 10px;
+  display: flex;
+  flex-direction: column;
+  width:70%;
+  /* \|/ */
+  height: auto;
+  flex-grow: 2;
+
+}

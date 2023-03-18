@@ -1,0 +1,52 @@
+
+:root{
+    --beige : #4A0404;
+    --purple:#C5ADC5;
+    --black:#26282A;
+    --white:#f6f6f6;
+    --orange:#FF3131;
+    --blue:#045DE9;
+    --lightBlue:#ADD8E6;
+}
+.dashboard{
+    display: flex;
+    flex-direction: row;
+    height: auto;
+    padding: 20px;
+}
+.nav_dashboard{
+    display: flex;
+    flex-direction: column;
+    justify-content: start;
+    align-items: center;
+    width: 25%;
+    height: auto;
+    flex-grow: 1;
+}
+.nav_dashboard div{
+    margin: 10px;
+    padding: 10px;
+    width: 100%;
+    border-radius: 20px;
+    cursor: pointer;
+    background-color: var(--lightBlue);
+}
+.nav_dash{
+    text-align: center;
+  color: var(--black);
+}
+.active_dash{
+    color: var(--blue);
+}
+.horizontal{
+    border: 1px solid var(--black);
+}
+.edit_details{
+    padding: 10px;
+    display: flex;
+    flex-direction: column;
+    width:75%;
+    /* \|/ */
+    height: auto;
+    flex-grow: 3;
+}
